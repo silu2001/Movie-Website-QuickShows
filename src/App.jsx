@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import Navbar from './components/Navbar/Navbar'
 
-import Footer from './components/Footer/footer'
+import Footer from './components/footer/Footer'
 
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
 import Home from './screens/home/Home'
